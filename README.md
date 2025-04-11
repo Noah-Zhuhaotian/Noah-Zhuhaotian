@@ -25,7 +25,7 @@ With over nine years in system and application operations, I bring extensive exp
 
 ## Connect with me 🌎:
 - Noah.zhuhaotian@outlook.com ✉️
-- Sharing updates on [LinkedIn](www.linkedin.com/in/noah-zhu) 💻
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/noah-zhu) 💻
 
 
 
