@@ -24,8 +24,8 @@ With over nine years in system and application operations, I bring extensive exp
 <img src=assests\images\RedHat-Dark.svg alt="RedHat" height="25">&ensp;
 
 ## Connect with me 🌎:
-- Noah.zhuhaotian@outlook.com <img src=assests\images\email.png alt="email" height="12"> <br/>
-- Sharing updates on [LinkedIn](www.linkedin.com/in/noah-zhu) <img src=assests\images\LinkedIn.svg alt="email" height="15">
+- Noah.zhuhaotian@outlook.com <img src=assests\images\email.png alt="email" height="12" style="vertical-align: middle;"> <br/>
+- Sharing updates on [LinkedIn](www.linkedin.com/in/noah-zhu) <img src=assests\images\LinkedIn.svg alt="email" height="16" style="vertical-align: middle;">
 
 
 
