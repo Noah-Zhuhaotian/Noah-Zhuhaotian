@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi , I'm Noah Zhu 👋🏻👨🏻‍💻
 
-<!--
-**Noah-Zhuhaotian/Noah-Zhuhaotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about DevOps, Cloud Engineering, and Automation.<br/>
+🛠️ Skilled in CI/CD pipelines, Kubernetes, GitHub Actions, and system optimization.<br/>
+🌏 Currently based in Wellington, New Zealand. <br/>
+💬 I love simplifying complex tech and sharing what I learn. <br/>
+🎯 Always learning, building, and growing. <br/>
 
-Here are some ideas to get you started:
+<img src=assests\images\banner.png alt="banner-noah">
+With over nine years in system and application operations, I bring extensive experience designing and implementing cloud-based solutions. My expertise lies in creating scalable architectures for microservices, having successfully designed and implemented CI/CD pipelines for more than 100 projects. I'm adept at developing automated operation scripts and tools to enhance efficiency. My comprehensive knowledge of networking, systems, monitoring, logging, backup and disaster recovery has proven invaluable for both troubleshooting issues and delivering robust solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools:
+<img src=assests\images\Azure-Dark.svg alt="azure" height="60">&ensp;
+<img src=assests\images\Ansible.svg alt="ansible" height="60">&ensp;
+<img src=assests\images\AWS-Dark.svg alt="aws" height="60">&ensp;
+<img src=assests\images\CSS.svg alt="css" height="60">&ensp;
+<img src=assests\images\HTML.svg alt="html" height="60">&ensp;
+<img src=assests\images\Docker.svg alt="docker" height="60">&ensp;
+<img src=assests\images\Git.svg alt="git" height="60">&ensp;
+<img src=assests\images\GoLang.svg alt="go" height="60">&ensp;
+<img src=assests\images\Grafana-Dark.svg alt="Grafana" height="60">&ensp;
+<img src=assests\images\Java-Dark.svg alt="Java" height="60">&ensp;
+<img src=assests\images\JavaScript.svg alt="JavaScript" height="60">&ensp;
+<img src=assests\images\Jenkins-Dark.svg alt="Jenkins" height="60">&ensp;
+<img src=assests\images\Kubernetes.svg alt="Kubernetes" height="60">&ensp;
+<img src=assests\images\Linux-Dark.svg alt="Linux" height="60">&ensp;
+<img src=assests\images\Python-Dark.svg alt="Python" height="60">&ensp;
+<img src=assests\images\Prometheus.svg alt="Prometheus" height="60">&ensp;
+
+
+
+
